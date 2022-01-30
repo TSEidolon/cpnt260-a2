@@ -16,7 +16,7 @@ used `align-items:stretch` as well as
 ```
   grid-template-rows: max-content 350px 1fr;
 ```
-  - It seemed to fix the problem. All columns with equal height regardless of the amount of text inside  
+  - It seemed to fix the problem. All columns had equal height regardless of the amount of text inside  
 
 
 ### Flare:
