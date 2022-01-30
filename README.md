@@ -3,9 +3,9 @@
 <br>
 
 ### Github Repo:
- - 
+ - https://github.com/TSEidolon/cpnt260-a2
 ### Github Pages Site:
- - 
+ - https://tseidolon.github.io/cpnt260-a2/
 ### Reflection:
  - When using grid:
    - Could not add “margin-left” to a single row without it affecting other rows.
@@ -20,7 +20,9 @@ used `align-items:stretch` as well as
 
 
 ### Flare:
- - `lines 188 to 252 in style.css`
+ - Hover and colour themes:
+    - `lines 188 to 252 in style.css`
 ### Attributions:
  - <a href="https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry#Houses">&copy;Hogwarts Houses</a>
- - <a href="https://harrypotter.fandom.com/wiki/Sorting_Hat#:~:text=The%20Sorting%20Hat%20was%20a,the%20four%20founders%20of%20Hogwarts.">&copy;The Sorting Hat</a># cpnt260-a2
+ - <a href="https://harrypotter.fandom.com/wiki/Sorting_Hat#:~:text=The%20Sorting%20Hat%20was%20a,the%20four%20founders%20of%20Hogwarts.">&copy;The Sorting Hat</a>
+ 
